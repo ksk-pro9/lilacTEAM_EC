@@ -1,0 +1,167 @@
+
+	/* ---------- all ---------- */
+	body, html {
+		margin: 0;
+		padding: 0;
+		width: 100%;
+		height: 100%;
+		min-width: 1000px;
+	}
+
+	#contents{
+		width: 80%;
+		margin: auto;
+		padding: 20px 0px 80px 0;
+	}
+
+	#contents > #title-center{
+		text-align: center;
+		font-size: 25px;
+		margin:0px 0px 20px 0px;
+	}
+
+	#contents > #title-left{
+		padding-left:20px;
+		font-size: 25px;
+		border-left:10px solid lightgray;
+		margin:0px 0px 20px 0px;
+	}
+
+	.form-confirm{
+		background-color: #f5f5f5;
+		border-radius: 25px;
+		padding: 50px 20px;
+		margin: 20px 0;
+	}
+
+	/* ---------- button1 ---------- */
+	.submit_btn{
+		text-align:center;
+		padding: 0.3em 1em;
+		text-decoration: none;
+		color: grey;
+		background:white;
+		border: solid 2px grey;
+		border-radius: 10px;
+		transition: .3s;
+		font-size:18px;
+	}
+
+	.submit_btn:hover{
+		background: grey;
+		color: white;
+		cursor:pointer;
+	}
+
+	.submit_btn:focus{
+		 outline:0;
+	}
+
+	.submit_btn:active{
+		outline:0;
+	}
+
+	/* ---------- button2 ---------- */
+	.submit_btn2{
+		text-align:center;
+		padding: 0.3em 1em;
+		text-decoration: none;
+		color: lightskyblue;
+		background:white;
+		border: solid 2px lightskyblue;
+		border-radius: 10px;
+		transition: .3s;
+		font-size:18px;
+	}
+
+	.submit_btn2:hover{
+		background: lightskyblue;
+		color: white;
+		cursor:pointer;
+	}
+
+	.submit_btn2:focus{
+		 outline:0;
+	}
+
+	.submit_btn2:active{
+		outline:0;
+	}
+
+	/* ---------- button3 ---------- */
+	.submit_btn3{
+		text-align:center;
+		padding: 0.3em 1em;
+		text-decoration: none;
+		color: lightpink;
+		background:white;
+		border: solid 2px lightpink;
+		border-radius: 10px;
+		transition: .3s;
+		font-size:18px;
+	}
+
+	.submit_btn3:hover{
+		background: lightpink;
+		color: white;
+		cursor:pointer;
+	}
+
+	.submit_btn3:focus{
+		 outline:0;
+	}
+
+	.submit_btn3:active{
+		outline:0;
+	}
+
+	/* ---------- error-message ---------- */
+	.error{
+		text-align: center;
+		font-size : 0.8em;
+		color: #D8000C;
+		margin:5px 0px 10px 0px;
+	}
+
+	/* ---------- form ---------- */
+	.input-form{
+		background-color: #f5f5f5;
+		border-radius: 25px;
+		padding: 50px 80px;
+		margin: 20px 0px;
+	}
+
+	.input-form-title{
+		font-size: 20px;
+		font-weight: bold;
+		text-align: left;
+	}
+
+	.input-form-hissu{
+		position:relative;
+		top:-2px;
+		font-size: 15px;
+		background-color: red;
+		margin-left: 20px;
+		padding: 2px 3px;
+		color: #fff;
+		border-radius: 10px;
+	}
+
+	.input-form .txt{
+		font-size: 18px;
+		width: 100%;
+		height: 30px;
+		border-radius: 20px;
+		box-shadow: 0 0 5px dodgerblue;
+		padding: 0 0 0 1%;
+		margin: 5px 0px 20px 0px;
+	}
+
+	.input-form .txt:focus{
+		 outline:0;
+	}
+
+	.input-form .txt:active{
+		outline:0;
+	}

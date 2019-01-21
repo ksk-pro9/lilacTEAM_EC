@@ -1,0 +1,42 @@
+#purchaseTable{
+	border-top:8px solid black;
+	width:750px;
+	height:220px;
+	margin-top:30px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#purchaseTable > #left{
+	position:relative;
+	top:20px;
+	float:left;
+	left:70px
+}
+
+#purchaseTable > #right{
+	float:left;
+	position:relative;
+	top:50px;
+	left:160px;
+	font-size:16px;
+	bottom:10px;
+}
+
+#purchaseTable >#right td{
+	position:relative;
+	left:20px;
+}
+
+.purchaseBtn{
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+}
+
+.purchase_img{
+	border-radius: 20px;
+	width:240px;
+	height:210px;
+	box-shadow: 0px 0px 30px #848484;
+	}

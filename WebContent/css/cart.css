@@ -1,0 +1,112 @@
+	#contents h2{
+	text-align:center;
+	}
+
+	#contents .titleMessage{
+	width: 700px;
+    margin: 0 auto;
+    text-align:center;
+	}
+
+	.btn_set{
+	text-align:center;
+	margin-top:20px;
+	}
+
+	.checkbox-image{
+	float:left;
+	}
+
+	.checkbox{
+	float:left;
+	padding-top:120px;
+	}
+
+	.product_image {
+	margin-left:50px;
+
+	}
+
+	.product_image img{
+	width:200px;
+	height:200px;
+	border-radius:20px;
+	box-shadow: 0px 0px 30px #848484;
+	margin:15px 0px;
+	}
+
+	.horizontal-list-table {
+	display:block;
+	}
+
+	.border{
+	border-top:8px solid black;
+	}
+
+	.floatclear{
+	clear: both;
+	}
+
+	.textbox{
+	padding-left:100px;
+	}
+
+	.totalprice{
+	color: #D8000C;
+	font-size: 180%;
+    margin: 50px 0px 30px 0px;
+	}
+
+	table .product_name{
+	font-color:#00FFFF;
+	}
+
+	.product_name_font{
+	font-size:30px;
+	}
+
+	.furigana td{
+	font-size:10px;
+	text-align:left;
+	}
+
+	.product_name_align{
+	text-align:left;
+	}
+
+	.priceprice th{
+	font-size:20px;
+	color: #D8000C;
+	}
+
+	.countcount th{
+	font-size:15px;
+	color: #D8000C;
+	}
+
+	.counting{
+	text-align:left;
+	}
+
+	.countName{
+	text-align:right;
+	}
+
+	.subtotal{
+	text-align:left;
+	}
+
+	.price-align{
+	text-align:left;
+	}
+
+	.a{
+	padding:30px 70px;
+	text-align:center;
+	border-bottom:8px solid black;
+	box-sizing:border-box;
+	}
+
+	.subtotal{
+	font-size:30px;
+	}

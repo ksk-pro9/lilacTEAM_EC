@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+#complete{
+	margin:20px;
+	padding-bottom:30px;
+	text-align:center;
+	border-radius: 10px;
+	border:1px solid #EEEEEE;
+	background-color:#EEEEEE;
+	font-family:'ヒラギノ角ゴ ProN W3','Hiragino Kaku Gothic ProN';
+}
+
+#complete > h1{
+	font-size:30px;
+
+}

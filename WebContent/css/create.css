@@ -1,0 +1,46 @@
+@CHARSET "UTF-8";
+
+#contents p{
+	padding: 20px 0 0 0;
+	text-align: center;
+	text-weight: bold;
+	font-size: 20px;
+}
+
+.input-form-set{
+	padding: 10px 100px;
+}
+
+table{
+	border-collapse: separate;
+	border-spacing: 15px;
+}
+
+table width{
+	width: 80%;
+}
+
+table th,td{
+	padding: 0 50px;
+}
+
+table th{
+	border-right: dashed 3px black;
+}
+
+table td{
+	text-align: left;
+}
+
+.success{
+	background-color: #f5f5f5;
+	border-radius: 25px;
+	padding: 80px 20px;
+	text-align: center;
+	font-size: 25px;
+}
+
+.btn-area{
+	margin:20px 0;
+	text-align:center;
+}
